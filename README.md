@@ -5,7 +5,7 @@
 - Making some community-free projects shared on github!
 - You can check our projects, take your time.
 
-**Other thingy..** 🎗️ <br> <br>
-- [x] Our page: https://villen.luzias.xyz <br>
-- [x] Contact us: luziailetisim@gmail.com <br>
-- [x] And more soon! <br>
+**Other thingy..** 🎗️
+- [x] Our page: https://villen.luzias.xyz
+- [x] Contact us: luziailetisim@gmail.com
+- [x] And more soon!
