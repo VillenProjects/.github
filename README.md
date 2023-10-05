@@ -7,5 +7,3 @@
  ◾ Our page: villen.luzias.xyz
  ◾ Contact us: luziailetisim@gmail.com
  ◾ And more soon!
-
-
