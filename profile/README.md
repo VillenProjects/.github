@@ -6,6 +6,6 @@
 - You can check our projects, take your time.
 
 **Other thingy..** 🎗️
-- [x] Our page: https://villen.luzias.xyz
+- [x] Our page: https://villen.tech
 - [x] Contact us: luziailetisim@gmail.com
 - [x] And more soon!
