@@ -5,7 +5,7 @@
 - Producting some community-free projects shared on github!
 - You can check our projects, take your time.
 
-**Other thingy..** 🎗️
+**Other things..** 🎗️
 - [x] Our page: https://villen.tech
 - [x] Contact us: *
 - [x] And more soon!
